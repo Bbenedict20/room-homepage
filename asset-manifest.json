@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/room-homepage/static/css/main.db2ad2fe.chunk.css",
+    "main.js": "/room-homepage/static/js/main.8a4d260f.chunk.js",
+    "main.js.map": "/room-homepage/static/js/main.8a4d260f.chunk.js.map",
+    "runtime-main.js": "/room-homepage/static/js/runtime-main.ac45666b.js",
+    "runtime-main.js.map": "/room-homepage/static/js/runtime-main.ac45666b.js.map",
+    "static/js/2.654dc785.chunk.js": "/room-homepage/static/js/2.654dc785.chunk.js",
+    "static/js/2.654dc785.chunk.js.map": "/room-homepage/static/js/2.654dc785.chunk.js.map",
+    "index.html": "/room-homepage/index.html",
+    "static/css/main.db2ad2fe.chunk.css.map": "/room-homepage/static/css/main.db2ad2fe.chunk.css.map",
+    "static/js/2.654dc785.chunk.js.LICENSE.txt": "/room-homepage/static/js/2.654dc785.chunk.js.LICENSE.txt",
+    "static/media/desktop-image-hero-1.91901d0d.jpg": "/room-homepage/static/media/desktop-image-hero-1.91901d0d.jpg",
+    "static/media/desktop-image-hero-2.9d354056.jpg": "/room-homepage/static/media/desktop-image-hero-2.9d354056.jpg",
+    "static/media/desktop-image-hero-3.05fd679a.jpg": "/room-homepage/static/media/desktop-image-hero-3.05fd679a.jpg",
+    "static/media/icon-angle-left.d53877df.svg": "/room-homepage/static/media/icon-angle-left.d53877df.svg",
+    "static/media/icon-angle-right.0ed3f81f.svg": "/room-homepage/static/media/icon-angle-right.0ed3f81f.svg",
+    "static/media/icon-arrow.84087786.svg": "/room-homepage/static/media/icon-arrow.84087786.svg",
+    "static/media/icon-hamburger.dc022bac.svg": "/room-homepage/static/media/icon-hamburger.dc022bac.svg",
+    "static/media/image-about-dark.329bbc44.jpg": "/room-homepage/static/media/image-about-dark.329bbc44.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac45666b.js",
+    "static/js/2.654dc785.chunk.js",
+    "static/css/main.db2ad2fe.chunk.css",
+    "static/js/main.8a4d260f.chunk.js"
+  ]
+}
